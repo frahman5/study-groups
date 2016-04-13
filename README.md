@@ -6,12 +6,13 @@ In days past, you may have assembled a group of friends at a library or coffee s
 
 Study groups on Learn offer you a way to do that in the digital world. When a study group begins, we create a private slack channel just for the group and prompt users to join it in Learn. We also place a link to a video chat in the channel so you can see and speak to all the people in your group.
 
-[Image of a study group chat?]
-
 You can both create and join study groups from the right rail on lesson pages, from your dashboard when you login to learn.co, or on the dedicated [study group page](www.learn.co/study-groups) which is accessible on the upper right menu. 
 
-[images showing pages/navigation]
+![Create from lesson show page](https://curriculum-content.s3.amazonaws.com/intro-to-learn/Lesson_page_create.png)
 
+![Create from track dashboard](http://curriculum-content.s3.amazonaws.com/intro-to-learn/Track_Dashboard.png)
+
+![Create from Study group show page](http://curriculum-content.s3.amazonaws.com/intro-to-learn/study%20group%20show%20page.png)
 
 ## When to use it
 
@@ -30,5 +31,5 @@ In general, Study Groups are valuable anytime you’re doing something that woul
 
 ## Going forward
 
-In your Learn journey, you will inevitably encounter obstacles, feel lapses in motivation, need to review a hazy concept, or just want to know you’re not in this alone. At those times,  look for existing study groups or create new ones. [some nice ending line?]
+In your Learn journey, you will inevitably encounter obstacles, feel lapses in motivation, need to review a hazy concept, or just want to know you’re not in this alone. At those times, look for existing study groups or create new ones. 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/study-groups'>Study Groups</a> on Learn.co and start learning to code for free.</p>
